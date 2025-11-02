@@ -6,7 +6,6 @@ from logger import Logger
 todo_bp = Blueprint('todo', __name__)
 log = Logger().get_logger()
 
-# === CRUD Routes (unchanged) ===
 @todo_bp.route('/')
 def index():
     todos = Todo.query.all()

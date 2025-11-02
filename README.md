@@ -5,7 +5,7 @@
 
 A **clean, modular, and production-ready** Todo application built with **Flask**, **SQLAlchemy**, **SQLite**, and **Bootstrap 5**. Features **full CRUD**, **singleton pattern** for config & logging, **custom error pages**, and **smart error handling**.
 
----
+----
 
 ## Features
 
